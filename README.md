@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=a371f7&center=true&vCenter=true&width=900&height=60&lines=Chemistry%20%C3%97%20Machine%20Learning;Scientific%20Computing%20%C3%97%20AI;Building%20practical%20AI%20tools;Science%20%E2%86%92%20Data%20%E2%86%92%20Software" alt="Animated introduction" />
 </p>
 
-## :microphone: About Me
+## 👤 About Me
 
 <p align="center">
   <i>Science → Data → Models → Software</i>

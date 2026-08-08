@@ -26,39 +26,41 @@ I'm still learning a lot, but that's kind of the point. Build something → brea
 
 That's what I enjoy doing.
 
-## :seedling: What I'm Building
-### 🔬 **Molecular Machine Learning**
+## 🌱 What I'm Building
 
-**Predicting molecular properties with Graph Neural Networks**
-> A machine-learning project using molecular structures and graph-based representations to predict molecular properties from the QM9 dataset.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Molecular Machine Learning</h3>
+      <img src="./assets/MolGapNet.png" width="100%" />
+      <br /><br />
+      <b>Graph Neural Network for molecular property prediction</b>
+      <p>Predicting molecular properties from molecular structures using graph-based representations and the QM9 dataset.</p>
+      <b>Python · PyTorch · GNN · Molecular ML</b>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ AI-Assisted Industrial Inspection</h3>
+      <img src="./assets/FSW-Tool.png" width="100%" />
+      <br /><br /><br /><br />
+      <b>Computer Vision for Friction Stir Welding</b>
+      <p>AI-assisted inspection software for extracting geometric measurements from industrial welding images.</p>
+      <b>Python · PyTorch · ResNet · Computer Vision</b>
+    </td>
+  </tr>
+</table>
 
-**Python · PyTorch · GNN · Molecular ML**
+<div align="center">
 
-### 👁️ AI-Assisted Industrial Inspection
+# 🧪 Budzak AI Labs
 
-**Computer Vision for Friction Stir Welding**
+### Science × AI × Software
 
-> An AI-assisted inspection tool designed to extract geometric measurements from industrial welding images using deep learning and computer vision.
+*A personal lab for experiments, projects, and ideas at the intersection
+of science, machine learning, and software engineering.*
 
-**Python · PyTorch · ResNet · Computer Vision**
+**Build → Experiment → Measure → Improve**
 
-### 🧠 ML / Deep Learning Experiments
-
-> Experiments and smaller projects exploring deep learning, NLP, attention mechanisms, RNNs, LSTMs, GRUs, and other ML concepts.
-
-**Python · PyTorch · Jupyter**
-
-
-## 🧪 Budzak AI Labs
-
-**Science × AI × Software**
->A personal lab for experiments, projects, and ideas at the intersection of science, machine learning, and software engineering.
->
-> Some projects work.
->
-> Some don't.
->
-> Both are useful.
+</div>
 
 
 ## 🪐 Beyond the Code
@@ -93,16 +95,19 @@ use tools, and operate through structured workflows.
 
 ### 🧠 Deep Learning
 
-<img src="https://img.shields.io/badge/Graph%20Neural%20Networks-GNN-6A5ACD?style=for-the-badge" alt="GNN" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" /> <img src="https://img.shields.io/badge/Attention%20Mechanisms-Attention-8A2BE2?style=for-the-badge" alt="Attention" /> <img src="https://img.shields.io/badge/RNN%20%2F%20LSTM%20%2F%20GRU-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="RNN LSTM GRU" />
+GNNs · Transformers · Attention · RNNs · LSTMs · GRUs
 
 ### 💬 NLP & LLMs
 
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B8BBE?style=for-the-badge" alt="NLP" /> <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-7952B3?style=for-the-badge" alt="Embeddings" /> <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=for-the-badge" alt="RAG" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+NLP · Embeddings · Semantic Search · RAG · Hugging Face
 
-### 🔗 LLM Applications & Agents
+### 🔗 LLM Applications
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-2E8B57?style=for-the-badge" alt="AI Agents" /> <img src="https://img.shields.io/badge/Tool%20Calling-Agent%20Workflows-00897B?style=for-the-badge" alt="Tool Calling" />
+LangChain · LangGraph · Tool Calling · Structured Outputs
 
+### 🤖 Agentic AI
+
+AI Agents · Memory · Planning · Tool Use · Agent Orchestration
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -123,12 +128,3 @@ use tools, and operate through structured workflows.
   <a href="https://www.instagram.com/blagojabudzakoski/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:budzak.b@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-## 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/BlagojaBudzak">BlagojaBudzak</a></i></p>

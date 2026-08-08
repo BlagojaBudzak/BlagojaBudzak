@@ -10,10 +10,19 @@
 
 ### 🚀 About Me
 
-I'm Blagoja Budzak, a Chemistry graduate exploring the intersection of science, machine learning, and software engineering.  
-My background in chemistry taught me to approach problems analytically and work with experimental data. I'm now applying that mindset to Python, machine learning, deep learning, and scientific computing.  
-I enjoy building practical projects that connect scientific problems with software — from molecular machine learning and computer vision to AI-assisted industrial inspection.  
-Currently learning, building, and experimenting with ML.
+I'm a Chemistry graduate with a growing obsession for turning scientific problems into software.
+
+My path started in chemistry and laboratory work, where I learned to think in terms of measurements, data, systems, and why things behave the way they do. Somewhere along the way, I started asking a different question:
+
+"Could I make a computer do this?"
+
+That question pulled me into Python, machine learning, deep learning, and scientific computing.
+
+These days, I enjoy building things at the intersection of science and AI — from molecular property prediction with graph neural networks to computer-vision tools for industrial inspection.
+
+I'm still learning a lot, but that's kind of the point. Build something → break it → figure out why → make it better.
+
+That's what I enjoy doing.
 
 🔭 &nbsp;I'm currently working on **Building practical AI/ML projects at the intersection of science, computer vision, and data.**  
 🌱 &nbsp;I'm currently learning **Deep learning, computer vision, GNNs, NLP, and AI systems.**  

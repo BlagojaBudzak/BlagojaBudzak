@@ -26,7 +26,9 @@ That's what I enjoy doing.
 
 ### 🚀 What I'm Building
 🔬 &nbsp;Molecular Machine Learning
+
 👁️ &nbsp;AI-Assisted Industrial Inspection
+
 🧠 &nbsp;ML / Deep Learning Experiments
 
 🔭 &nbsp;I'm currently working on **Building practical AI/ML projects at the intersection of science, computer vision, and data.**  

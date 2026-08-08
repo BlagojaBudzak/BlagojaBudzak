@@ -1,14 +1,16 @@
 <p align="center">
-  <a href="https://github.com/BlagojaBudzak">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hi%2C%20I'm%20Blagoja%20%F0%9F%91%8B" alt="Hi, I&#39;m Blagoja 👋" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=900&text=Blagoja%20Budzak" alt="Blagoja Budzak" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Chemistry%20%C3%97%20Machine%20Learning;Building%20practical%20AI%20tools%20at%20the%20intersection%20of%20science%2C%20data%2C%20and%20software." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1200&color=a371f7&center=true&vCenter=true&width=900&height=60&lines=Chemistry%20%C3%97%20Machine%20Learning;Scientific%20Computing%20%C3%97%20AI;Building%20practical%20AI%20tools;Science%20%E2%86%92%20Data%20%E2%86%92%20Software" alt="Animated introduction" />
 </p>
 
 ## :microphone: About Me
+
+<p align="center">
+  <i>Science → Data → Models → Software</i>
+</p>
 
 I'm a Chemistry graduate with a growing obsession for turning scientific problems into software.
 

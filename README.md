@@ -53,6 +53,8 @@ That's what I enjoy doing.
 
 # 🧪 Budzak AI Labs
 
+<img src="./assets/Budzak-AI-Labs.png" width="100%" />
+
 ### Science × AI × Software
 
 *A personal lab for experiments, projects, and ideas at the intersection

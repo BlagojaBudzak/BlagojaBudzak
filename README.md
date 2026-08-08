@@ -60,8 +60,10 @@ That's what I enjoy doing.
 
 
 ## 🪐 Beyond the Code
-💬 &nbsp;Ask me about: **Python, ML experiments, scientific computing, or the projects I'm currently breaking.**  
-⚡ &nbsp;Fun fact: **My favorite projects usually start with “I wonder if I can automate this.**
+
+💬 &nbsp;Ask me about: **Python, ML experiments, scientific computing, or the projects I'm currently breaking.**
+
+⚡ &nbsp;Fun fact: **My favorite projects usually start with "I wonder if I can automate this."**
 
 ## 🛠️ Tech Stack
 

@@ -25,9 +25,9 @@ I'm still learning a lot, but that's kind of the point. Build something → brea
 That's what I enjoy doing.
 
 ### 🚀 What I'm Building
-🔬 Molecular Machine Learning
-👁️ AI-Assisted Industrial Inspection
-🧠 ML / Deep Learning Experiments
+🔬 &nbsp;Molecular Machine Learning
+👁️ &nbsp;AI-Assisted Industrial Inspection
+🧠 &nbsp;ML / Deep Learning Experiments
 
 🔭 &nbsp;I'm currently working on **Building practical AI/ML projects at the intersection of science, computer vision, and data.**  
 🌱 &nbsp;I'm currently learning **Deep learning, computer vision, GNNs, NLP, and AI systems.**  

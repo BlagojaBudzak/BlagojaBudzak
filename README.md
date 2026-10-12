@@ -42,9 +42,11 @@ That's what I enjoy doing.
     </td>
     <td width="50%" valign="top">
       <h3>👁️ AI-Assisted Industrial Inspection</h3>
-      <img src="./assets/FSW-Tool.png" width="100%" alt="Friction Stir Welding inspection tool" />
+      <a href="https://github.com/BlagojaBudzak/FSW-Tool">
+        <img src="./assets/FSW-Tool.png" width="100%" alt="Friction Stir Welding inspection tool" />
+       </a>
       <br /><br />
-      <b>Computer Vision for Friction Stir Welding</b>
+      <b><a href="https://github.com/BlagojaBudzak/FSW-Tool">Computer Vision for Friction Stir Welding</a></b>
       <p>AI-assisted inspection software that uses a ResNet-50 keypoint model to support geometric measurements of industrial weld cross-sections.</p>
       <b>Python · PyTorch · ResNet-50 · Computer Vision</b>
     </td>
@@ -135,11 +137,6 @@ AI Agents · Memory · Planning · Tool Use · Agent Orchestration
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=BlagojaBudzak&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BlagojaBudzak&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="GitHub contribution graph" />
-</p>
 
 ## 🔗 Connect With Me
 

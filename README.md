@@ -52,6 +52,7 @@ That's what I enjoy doing.
   <tr>
     <td colspan="2" valign="top">
       <h3>📰 Sci News — AI Research Desk</h3>
+      <img src="./assets/SciNews.png" width="100%" alt="SciNews research desk" />
       <b><a href="https://github.com/BlagojaBudzak/sci-news">LLM-powered scientific literature research assistant</a></b>
       <p>Searches OpenAlex and arXiv, selects relevant papers, and generates accessible summaries with links to the original publications.</p>
       <p>Includes structured agent outputs, claim checking against retrieved abstracts, a FastAPI job API, and a web frontend. Python retains control of paper metadata and source links rather than relying on the model to invent them.</p>
